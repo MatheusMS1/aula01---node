@@ -11,6 +11,7 @@
   "author": "Matheus",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.2.0",
     "nodemon": "^2.0.21",
     "prompt-sync": "^4.2.0"
   }
