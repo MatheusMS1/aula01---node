@@ -1,0 +1,17 @@
+{
+  "name": "aula01---node",
+  "version": "1.0.0",
+  "description": "Projeto de teste",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon run app.js"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "prompt-sync": "^4.2.0"
+  }
+}
